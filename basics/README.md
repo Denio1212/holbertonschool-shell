@@ -26,4 +26,5 @@ Under the former you can write your desired command like this:
 * This command notifies the system that this file has an executable command. To execute it write the following:
 ```shell
 > ./<filename>
-``
+```
+
