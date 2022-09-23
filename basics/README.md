@@ -28,3 +28,19 @@ Under the former you can write your desired command like this:
 > ./<filename>
 ```
 
+### If done correctly you should see the  command has executed, if so congrats you are now a scripter.
+
+> You can experiment with this any way you want, either by typing other commands like:
+```shell
+> cd
+```
+* Beware that when accessing the root directory to execute a command like cd, you must write the  following change to your execution command:
+```shell
+> source ./<filename>
+```
+
+This accesses the main root file which allows you to access previous directories and switch between them.
+
+> In conclusion shell scripting at most allows you to make highly advanced scripts and execute them quickly and at worst allows the user to make shortcuts of commands.
+
+* So it's pretty neat! :)
