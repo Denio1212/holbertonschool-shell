@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1 iacta >> donda 
+tail -1 < iacta >> donda 
